@@ -9,6 +9,7 @@ ________________________________________________________________________________
 - [Contact](#contact)
 
 ## PiCare - Intensive Care Unit (ICU) Data Solution
+________________________________________________________________________________________________________________________________________
 ## Project Summary
 * Collects data from patient monitors and other machines (such as Trans-Cranial Doppler)
 * Saves data to a database of your choosing
