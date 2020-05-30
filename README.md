@@ -12,6 +12,9 @@
 * Spencer Technologies Trans-Cranial Doppler
 * RS-232 
 
+## System Schematic
+![system_schematic](https://i.imgur.com/VDYQdMp.jpg)
+
 ## Example Setup
 ![setup_img](https://i.imgur.com/xqy9iAq.jpg)
 
