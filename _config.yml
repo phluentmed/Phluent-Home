@@ -1,3 +1,5 @@
 theme: jekyll-theme-dinky
 title: phluentMed
 description: Medical data solutions
+github:
+  is_project_page: false
