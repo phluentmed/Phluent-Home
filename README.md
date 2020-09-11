@@ -18,7 +18,7 @@ ________________________________________________________________________________
 
 ## Code and Usage
 For the TCD scripts, installation, and usage instructions please visit our main repository at:
-https://github.com/phluentmed/spencer-tcd
+[https://github.com/phluentmed/spencer-tcd](https://github.com/phluentmed/spencer-tcd)
 
 
 ## Contact
