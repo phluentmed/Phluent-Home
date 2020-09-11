@@ -1,5 +1,6 @@
-remote_theme: hydecorp/hydejack
+
 title: phluentMed
 description: Medical data solutions
 github:
   is_project_page: false
+remote_theme: hydecorp/hydejack
