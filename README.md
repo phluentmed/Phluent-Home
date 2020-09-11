@@ -4,28 +4,23 @@ ________________________________________________________________________________
 ## Table of Contents
 - [Project Summary](#project-summary)
 - [Interfaces Supported](#interfaces-supported)
-- [System Schematic](#system-schematic)
-- [Example Setup](#example-setup)
+- [Code and Usage](#code-usage)
 - [Contact](#contact)
 
 ## PiCare - Intensive Care Unit (ICU) Data Solution
 ________________________________________________________________________________________________________________________________________
 ## Project Summary
-* Collects data from patient monitors and other machines (such as Trans-Cranial Doppler)
-* Saves data to a database of your choosing
-* Touchscreen interface to control at bedside
+* Our scripts collect data from patient monitors and saves data to a CSV file or HTTP endpoint of your choosing.
 
-## Interfaces supported
-* Philips MX800
-* Spencer Technologies Trans-Cranial Doppler
-* RS-232 
+## Interfaces Supported
+* Spencer Technologies ST3 PMD 150 Trans-Cranial Doppler
+* Philips MX800 (under development)
 
-## System Schematic
-![system_schematic](https://i.imgur.com/VDYQdMp.jpg)
+## Code and Usage
+For the TCD scripts, installation, and usage instructions please visit our main repository at:
+https://github.com/phluentmed/spencer-tcd
 
-## Example Setup
-![setup_img](https://i.imgur.com/xqy9iAq.jpg)
 
 ## Contact
 
-Please email phluentmed@gmail.com if you need any help using the code or have any questions. 
+Please email phluentmed@gmail.com with any questions. 
