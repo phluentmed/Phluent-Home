@@ -6,7 +6,7 @@ ________________________________________________________________________________
 - [Interfaces Supported](#interfaces-supported)
 - [Code and Usage](#code-usage)
 - [Contact](#contact)
-________________________________________________________________________________________________________________________________________
+
 
 ## Project Summary
 ## Intensive Care Unit (ICU) Data Solution
