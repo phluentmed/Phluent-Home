@@ -6,10 +6,9 @@ ________________________________________________________________________________
 - [Interfaces Supported](#interfaces-supported)
 - [Code and Usage](#code-usage)
 - [Contact](#contact)
-
-## PiCare - Intensive Care Unit (ICU) Data Solution
 ________________________________________________________________________________________________________________________________________
 ## Project Summary
+## Intensive Care Unit (ICU) Data Solution
 * Our scripts collect data from patient monitors and saves data to a CSV file or HTTP endpoint of your choosing.
 
 ## Interfaces Supported
