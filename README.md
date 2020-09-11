@@ -1,4 +1,4 @@
-# At phluentMed we are a team dedicated to medical data collection and processing solutions.
+# We are a team dedicated to medical data collection and processing solutions.
 
 _______________________________________________________________________________________________________________________________________
 ## Table of Contents
